@@ -1,4 +1,5 @@
-# hello-world
-Hi all!
+# Demo Project
 
-My name is David and I work as a Project manager at small SW company situated in Prague
+### 
+
+This repo is to practice the GitHub Flow in many ways! 
